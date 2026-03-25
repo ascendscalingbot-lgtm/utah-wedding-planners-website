@@ -1,0 +1,17 @@
+<svg width="220" height="70" viewBox="0 0 220 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- UTAH text -->
+  <text x="10" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#f5f1ea">UTAH</text>
+  
+  <!-- Wedding script -->
+  <text x="35" y="45" font-family="'Brush Script MT', 'Segoe Script', cursive" font-size="26" font-style="italic" fill="#f5f1ea">Wedding</text>
+  
+  <!-- Ring icon -->
+  <g transform="translate(145, 28)">
+    <circle cx="10" cy="10" r="7" stroke="#f5f1ea" stroke-width="1.5" fill="none"/>
+    <polygon points="10,3 13,8 7,8" fill="#f5f1ea"/>
+    <rect x="8" y="17" width="4" height="4" fill="#f5f1ea"/>
+  </g>
+  
+  <!-- PLANNERS text -->
+  <text x="10" y="62" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#f5f1ea">PLANNERS</text>
+</svg>
